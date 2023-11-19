@@ -8,7 +8,7 @@ This tiny methodological survival kit which presents:
 
 - `002_prez_strategic_thinking_2.pdf`: A complete kit to forge a quick “strategy” / “raison d’être” and above all an actionable strategy. .
 
-- `003_Change_Culture_Hack_for_newbies_3.pdf`:A complete view of my understanding of Corporate Hacking or Culture Hacking which can now be found almost everywhere but which still does the job when it comes to supporting the digital transformation of an entity such as a company or oneself !!!
+- `003_Change_Culture_Hack_for_newbies_3.pdf`: A complete view of my understanding of Corporate Hacking or Culture Hacking which can now be found everywhere but which still does the job when it comes to supporting the digital transformation of an entity such as a company or oneself!!! Content came from various sources such as Training, Gardner, Readings, Notes... but the most important thing is the stuff in one place.
 
 *In fact, the combination of the two presentations (`001_white_desordres_methodo_3.pdf`, `002_prez_strategic_thinking_2.pdf`) gives you a useful little guideline when the time for entrepreneurship has come.*
 
