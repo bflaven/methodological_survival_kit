@@ -54,14 +54,5 @@ git commit -am "add files"
 # git push origin master
 git push
 
-# Repair Permissions
-cd /Users/brunoflaven/Documents/03_git/ia_usages
-# groupname is staff on a mac
-sudo chgrp -R groupname .
-sudo chmod -R g+rwX .
-sudo find . -type d -exec chmod g+s '{}' +
-
-
-
 
 ```
